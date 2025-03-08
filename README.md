@@ -1,23 +1,40 @@
-# To-Do-Application
+Advanced React To-Do Application with API Integration
 
-This is a simple to-do application built with React and Vite.
+🌟 Overview This is a feature-rich React To-Do application that enhances productivity with real-time weather updates and motivational quotes.
+The app provides a fully responsive UI with light and dark mode support.
 
-## Getting Started
+🚀 Features To-Do List: Add, edit, and mark tasks as complete. Weather Integration: Fetches real-time weather data and dynamically displays weather-related videos.
+Motivational Quotes: Shows a new quote every time you refresh the app. Responsive Design: Works seamlessly on all devices, including user profile responsiveness. Dark & Light Mode: Toggle between themes for a comfortable user experience.
 
-### `npm install`
+🛠️ Technologies Used React.js Tailwind CSS Weather API Motivation Quotes API
 
-Installs the required dependencies.
+📷 Images
+Use of weather API Display relevant weather conditions on Page.
 
-### `npm start`
+## 📷 Screenshots
 
-Runs the app in development mode.  
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+### ❄️ Snowfall Weather
 
-### `npm run build`
+![Snowfall Weather](/public/app-image3.png)
 
-Builds the app for production.
+### 🌞 Clear Weather
 
-## Learn More
+![Clear Weather](/public/app-image4.png)
 
-- [React Documentation](https://reactjs.org/)
-- [Vite Documentation](https://vitejs.dev/)
+# Dark & Light Mode:
+
+### 💡 Light Mode
+
+![Light Mode](/public/app-image7.png)
+
+### 🌙 Dark Mode
+
+![Dark Mode](/public/app-image6.png)
+
+# User Profile
+
+### 👤 User Profile
+
+![User Profile](/public/app-image10.png)
+
+🌍 API Integration Weather API: Fetches live weather data to display relevant weather conditions and play videos. Motivation Quotes API: Retrieves and displays new quotes dynamically.
