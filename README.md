@@ -21,6 +21,7 @@ Motivational Quotes API (for dynamic quotes)
 🔹 Motivational Quotes API – Retrieves and displays new quotes dynamically.
 
 📷 Screenshots
+
 ❄️ Snowfall Weather
 ![Snowfall Weather](/public/app-image3.png)
 
@@ -28,6 +29,7 @@ Motivational Quotes API (for dynamic quotes)
 ![Clear Weather](/public/app-image5.png)
 
 🎨 Dark & Light Mode
+
 💡 Light Mode
 ![Light Mode](/public/app-image7.png)
 
@@ -35,8 +37,11 @@ Motivational Quotes API (for dynamic quotes)
 ![Light Mode](/public/app-image6.png)
 
 👤 User Profile
+
 💡 Light Mode
+
 ![User Profile](/public/app-image10.png)
 
 🌙 Dark Mode
+
 ![User Profile](/public/app-image4.png)
